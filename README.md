@@ -133,8 +133,6 @@ Even brief practice reinforces the integration of thought, perception, and delib
 Cross-Traditional Relationships
 
 
----
-
 Buddhism
 
 A contemplative tradition focused on understanding suffering, mindfulness, and the nature of the self through direct observation of mind and body.
