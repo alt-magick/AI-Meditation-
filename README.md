@@ -28,25 +28,33 @@ The Ego is the interpretive layer of awareness. It judges, predicts, plans, and 
 
 Cross-Traditional Relationships:
 
-Buddhism - Manas and Selfing:
+Buddhism – Manas and Selfing:
+Manas (“mind” or “selfing”) assigns ownership to experience, filtering perception via habit, attachment, and belief.
 
-Manas (mind or selfing) assigns ownership to experience, filtering perception via habit, attachment, and belief.
+Hindu Philosophy – Ahamkara (“I-Maker”):
+Generates the sense of personal identity and attachment, forming the “I”.
 
-Hindu Philosophy - Ahamkara (I-Maker):
-
-Generates the sense of personal identity and attachment, forming the "I".
-
-Yoga - Manomaya Kosha (Mental Sheath):
-
+Yoga – Manomaya Kosha (“Mental Sheath”):
 Contains thought, emotion, and mental imagery; Ego interprets lived experience here.
 
-Western Philosophy - Rational Consciousness:
+Western Philosophy – Rational Consciousness:
+Descartes’ “I think, therefore I am” exemplifies reflective, self-aware function of Ego.
 
-Descartes' "I think, therefore I am" exemplifies reflective, self-aware function of Ego.
-
-Modern Psychology - The Internal Narrator:
-
+Modern Psychology – Internal Narrator:
 Associated with working memory, interpretation, planning, judgment, and narrative construction.
+
+Phenomenology – Noesis:
+Ego corresponds to the act of thinking and structuring experience, forming the intentional content of consciousness.
+
+Taoism / Qigong – Observing Mind:
+Ego is the observing mind that witnesses sensations, thoughts, and energy without interference.
+
+Somatic Psychology – Awareness of Mental Patterns:
+Ego interprets bodily signals and emotional responses, organizing them into a coherent sense of self.
+
+IFS Therapy – Parts:
+Ego corresponds to the ensemble of internal “parts” that form personal id
+entity.
 
 Role in Meditation:
 
