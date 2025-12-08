@@ -129,66 +129,83 @@ Maintain awareness of all three layers simultaneously.
 
 Even brief practice reinforces the integration of thought, perception, and deliberate action.
 
-
 ---
 
 Cross-Traditional Relationships
 
-Ego – Thinking / Self / Mind
+Buddhism
 
-Buddhism – Manas: Mind that assigns ownership, creates selfing
+Ego – Manas: Mind that assigns ownership; creates the sense of “selfing”
 
-Hindu Philosophy – Ahamkara: “I-maker,” sense of personal identity
+Experience – Vedana: Felt quality of sensations; bodily awareness
 
-Yoga – Manomaya Kosha: Mental sheath; contains thoughts, emotions, mental imagery
-
-Cognitive Psychology – Thinking: Working memory, interpretation, planning
-
-Phenomenology – Noesis: Act of thinking and structuring experience
-
-Taoism / Qigong – Observing Mind: Mind that witnesses thoughts and sensations
-
-IFS Therapy – Parts: Internal sub-personalities forming identity
-
+Enlightenment – Panna: Wisdom guiding ethical, deliberate action
 
 
 ---
 
-Experience – Sensing / Feeling / Body Awareness
+Hindu Philosophy
 
-Buddhism – Vedana: Felt quality of sensations; bodily awareness
+Ego – Ahamkara: “I-maker,” sense of personal identity
 
-Hindu Philosophy – Annamaya + Pranamaya Kosha: Physical body and energy/breath body
+Experience – Annamaya + Pranamaya Kosha: Physical body and breath/energy body
 
-Yoga – Annamaya + Pranamaya Koshas: Physical sensation and subtle energy perception
-
-Cognitive Psychology – Sensing: Body-based perception, interoception
-
-Phenomenology – Noema: Experienced content; the lived sensation
-
-Taoism / Qigong – Sensing Body & Qi: Awareness of energy flow in the body
-
-IFS Therapy – Felt Sense: Bodily and emotional perception
-
+Enlightenment – Vijnanamaya Kosha: Insight and conscious guidance of action
 
 
 ---
 
-Enlightenment – Intentional Action / Wisdom / Executive Function
+Yoga
 
-Buddhism – Panna: Wisdom guiding ethical, deliberate action
+Ego – Manomaya Kosha: Mental sheath; thoughts, emotions, mental imagery
 
-Hindu Philosophy – Vijnanamaya Kosha: Insight and conscious guidance of action
+Experience – Annamaya + Pranamaya Koshas: Physical sensation and subtle energy perception
 
-Yoga – Vijnanamaya Kosha: Intellectual discernment and intentional guidance
+Enlightenment – Vijnanamaya Kosha: Intellectual discernment and intentional guidance
 
-Cognitive Psychology – Executive Function: Metacognition, planning, conscious control
 
-Phenomenology – Intentional Action: Purposeful, consciously guided behavior
+---
 
-Taoism / Qigong – Directing Intention & Flow: Guiding movement, breath, and energy
+Cognitive Psychology
 
-IFS Therapy – Self: Core Self that directs action and awareness
+Ego – Thinking: Working memory, interpretation, planning
+
+Experience – Sensing: Body-based perception, interoception
+
+Enlightenment – Executive Function: Metacognition, planning, conscious control
+
+
+---
+
+Phenomenology
+
+Ego – Noesis: The act of thinking and structuring experience
+
+Experience – Noema: The content of experience; the lived, felt sensation
+
+Enlightenment – Intentional Action: Purposeful, consciously guided behavior
+
+
+---
+
+Taoism / Qigong
+
+Ego – Observing Mind: The witnessing mind that sees thoughts and sensations
+
+Experience – Sensing Body & Qi: Awareness of the body and internal energy flow
+
+Enlightenment – Directing Intention & Flow: Guiding movement, breath, and energy with awareness
+
+
+---
+
+IFS Therapy
+
+Ego – Parts: Internal sub-personalities that form identity
+
+Experience – Felt Sense: Bodily and emotional perception
+
+Enlightenment – Self: The calm, centered, wise core that directs action and awareness
 
 ---
 
