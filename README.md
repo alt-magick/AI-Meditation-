@@ -15,6 +15,8 @@ Enlightenment – deliberate, conscious action
 These layers operate in continuous interaction. Mind, Body, and Action influence one another dynamically, forming a single integrated field of consciousness. Meditation practice leverages this overlapping structure, using the breath as a central tool to harmonize thought, sensation, and deliberate awareness.
 
 
+![diagram](diagram.png)
+
 ---
 
 Ego – The Inner Circle
