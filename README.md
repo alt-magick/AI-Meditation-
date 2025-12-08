@@ -224,43 +224,57 @@ Cross-Traditional Resonance with English Translations
 Buddhist Threefold Training:
 
 Ego -> Samadhi (“concentration of mind”)
+
 Experience -> Sila (“ethical conduct and embodied awareness”)
+
 Enlightenment -> Panna (“wisdom”)
 
 Yogic Koshas:
 
 Ego -> Manomaya Kosha (“mental sheath: thought, emotion, mental imagery”)
+
 Experience -> Annamaya Kosha (“physical body”) + Pranamaya Kosha (“breath-energy body”)
+
 Enlightenment -> Vijnanamaya Kosha (“insight and discernment sheath, guiding conscious action”)
 
 Hindu Philosophy:
 
 Ego -> Ahamkara (“I-maker”)
+
 Experience -> Annamaya + Pranamaya (“perception of body and energy”)
+
 Enlightenment -> Vijnanamaya (“Self-realization / conscious guidance”)
 
 IFS Therapy:
 
 Ego -> Parts
+
 Experience -> Felt sense
+
 Enlightenment -> Self
 
 Phenomenology:
 
 Ego -> Noesis (“act of thinking”)
+
 Experience -> Noema (“experienced content”)
+
 Enlightenment -> Intentional action
 
 Cognitive Psychology:
 
 Ego -> Thinking
+
 Experience -> Sensing
+
 Enlightenment -> Executive function
 
 Taoism / Qigong:
 
 Ego -> Observing mind
+
 Experience -> Sensing body and Qi (“life energy”)
+
 Enlightenment -> Directing intention and flow
 
 Across all traditions, thought, sensation, and intention form one continuous, integrated field of consciousness.
