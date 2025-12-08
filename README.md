@@ -186,8 +186,6 @@ Even brief practice reinforces the integration of thought, perception, and delib
 
 ---
 
-Cross-Traditional Resonance with English Translations
-
 Ego – Thinking / Self / Mind
 
 Buddhism – Manas: Mind that assigns ownership, creates selfing
@@ -279,5 +277,3 @@ Taoism and Qigong: Qi, Wu Wei, and related practices
 
 This AI-generated framework integrates these historical, philosophical, and scientific insights into a coherent meditation guide.
 
-
----
