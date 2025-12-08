@@ -44,7 +44,7 @@ Sensing, feeling, receiving, embodied awareness
 
 Philosophical Parallel:
 
-The lived body, direct perception
+The body, and direct perception
 
 Experience is the immediate field of sensation. It includes physical sensation, emotional tone, energy, proprioception, and intuitive bodily cues. Thoughts interpret these sensations, creating overlap with Ego.
 
@@ -79,7 +79,9 @@ Interactions Between the Layers
 The three layers function as an interdependent system:
 
 Ego interprets, judges, and narrates
+
 Experience senses, feels, and embodies
+
 Enlightenment directs intention and action
 
 Each breath becomes a moment where:
@@ -88,7 +90,7 @@ Mind is thinking
 
 Body is sensing
 
-Awareness is choosing
+Action is creating
 
 The breath serves as the central integrating force:
 
