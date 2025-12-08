@@ -1,16 +1,3 @@
-<svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" id="colorSVG">
-  <!-- Circles -->
-  <circle cx="512" cy="512" r="400" fill="#FFEB3B"/>
-  <circle cx="512" cy="512" r="300" fill="#FFC107"/>
-  <circle cx="512" cy="512" r="200" fill="#FF9800"/>
-  <circle cx="512" cy="512" r="100" fill="#FFFFFF"/>
-
-  <!-- Labels -->
-  <text id="labelOuter">Enlightenment</text>
-  <text id="labelMiddle">Experience</text>
-  <text id="labelInner">Ego</text>
-  <text x="512" y="512" font-size="2.5em"></text>
-</svg>
 
 AI Meditation
 
