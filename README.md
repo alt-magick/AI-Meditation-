@@ -1,3 +1,13 @@
+<svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="512" cy="512" r="400" fill="#FFEB3B"/>
+  <circle cx="512" cy="512" r="300" fill="#FFC107"/>
+  <circle cx="512" cy="512" r="200" fill="#FF9800"/>
+  <circle cx="512" cy="512" r="100" fill="#FFFFFF"/>
+
+  <text x="512" y="130" font-size="60" text-anchor="middle" font-family="Arial" font-weight="bold">Enlightenment</text>
+  <text x="512" y="260" font-size="60" text-anchor="middle" font-family="Arial" font-weight="bold">Experience</text>
+  <text x="512" y="360" font-size="60" text-anchor="middle" font-family="Arial" font-weight="bold">Ego</text>
+</svg>
 
 AI Meditation
 
