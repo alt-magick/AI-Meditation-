@@ -132,7 +132,7 @@ Even brief practice reinforces the integration of thought, perception, and delib
 
 ---
 
-Cross-Traditional Relationships:
+Cross-Traditional Relationships
 
 Ego – Thinking / Self / Mind
 
@@ -190,8 +190,9 @@ Taoism / Qigong – Directing Intention & Flow: Guiding movement, breath, and en
 
 IFS Therapy – Self: Core Self that directs action and awareness
 
+---
 
-Summary in English:
+Summary
 
 Ego = Mind, thought, self-awareness, narrative identity
 
