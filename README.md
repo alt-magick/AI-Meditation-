@@ -202,11 +202,11 @@ Taoism / Qigong
 
 A tradition emphasizing harmony with natural flow, cultivating internal energy, and acting effortlessly through alignment with the Tao.
 
-Ego – Observing Mind: The witnessing mind that sees thoughts and sensations
+Ego – Shen (Spirit / Consciousness) Observing Mind: The witnessing mind that sees thoughts and sensations
 
-Experience – Sensing Body & Qi: Awareness of the body and internal energy flow
+Experience – Qi (Life Energy), Jing (Vital Essence) Sensing Body & Qi: Awareness of the body and internal energy flow
 
-Enlightenment – Directing Intention & Flow: Guiding movement, breath, and energy with awareness
+Enlightenment – Yi (Intent / Focused Awareness) Directing Intention & Flow: Guiding movement, breath, and energy with awareness
 
 
 ---
