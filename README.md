@@ -29,26 +29,6 @@ The constructed self, rational consciousness
 
 The Ego is the interpretive layer of awareness. It judges, predicts, plans, and creates the narrative sense of "I". Ego links memory, expectation, and interpretation into a coherent personal identity, producing the internal commentary that shapes perception of reality.
 
-Cross-Traditional Relationships:
-
-Buddhism – Manas: Mind that assigns ownership, creates selfing
-
-Hindu Philosophy – Ahamkara: “I-maker,” sense of personal identity
-
-Yoga – Manomaya Kosha: Mental sheath; contains thoughts, emotions, mental imagery
-
-Western Philosophy – Rational Consciousness: Reflective, self-aware function of the mind
-
-Modern Psychology – Internal Narrator: Working memory, interpretation, planning, judgment
-
-Phenomenology – Noesis: Act of thinking and structuring experience
-
-Taoism / Qigong – Observing Mind: Mind that witnesses thoughts and sensations
-
-Somatic Psychology – Awareness of Mental Patterns: Interprets bodily signals and emotional responses
-
-IFS Therapy – Parts: Internal sub-personalities forming identity
-
 Role in Meditation:
 
 Ego is observed, not suppressed. Thoughts continue, but they do not dominate attention or control the breath. Awareness of Ego reduces reactivity and promotes clarity.
@@ -68,24 +48,6 @@ The lived body, direct perception
 
 Experience is the immediate field of sensation. It includes physical sensation, emotional tone, energy, proprioception, and intuitive bodily cues. Thoughts interpret these sensations, creating overlap with Ego.
 
-Cross-Traditional Relationships:
-
-Buddhism – Vedana: Felt quality of sensations; bodily awareness
-
-Hindu Philosophy – Annamaya Kosha & Pranamaya Kosha: Physical body and energy/breath body
-
-Yoga – Annamaya Kosha & Pranamaya Kosha: Physical sensation and subtle energy perception
-
-Phenomenology – Merleau-Ponty’s Lived Body / Noema: Experienced content; consciousness arises through the body
-
-Taoism / Qigong – Sensing Body & Qi: Awareness of energy flow and internal balance
-
-Somatic Psychology – Interoception and Felt Sense: Bodily and emotional perception grounding attention
-
-IFS Therapy – Felt Sense: Emotional and bodily perception of experience
-
-Cognitive Psychology – Sensing: Body-based perception, interoception
-
 Role in Meditation:
 
 The breath is felt rather than analyzed. Bodily sensations emerge naturally, grounding attention and providing emotional clarity.
@@ -104,22 +66,6 @@ Philosophical Parallel:
 Wisdom, executive function, mindful direction
 
 Enlightenment integrates mind and body into intentional action. It chooses, directs, and harmonizes conscious processes, including the breath, with full awareness.
-
-Cross-Traditional Relationships:
-
-Buddhism – Panna: Wisdom guiding ethical and mindful action
-
-Hindu Philosophy – Vijnanamaya Kosha: Insight and conscious guidance of action
-
-Yoga – Vijnanamaya Kosha: Intellectual discernment and intentional guidance
-
-Taoism – Wu Wei: Deliberate yet natural action; movement and breath flow consciously
-
-Cognitive Science – Metacognition and Executive Control: Awareness of awareness, self-regulation, executive function
-
-Phenomenology – Intentional Action: Purposeful, consciously guided behavior
-
-IFS Therapy – Self: Core Self that directs action and awareness
 
 Role in Meditation:
 
@@ -185,6 +131,8 @@ Even brief practice reinforces the integration of thought, perception, and delib
 
 
 ---
+
+Cross-Traditional Relationships:
 
 Ego – Thinking / Self / Mind
 
